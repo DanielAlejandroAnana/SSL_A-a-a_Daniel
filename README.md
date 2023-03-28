@@ -1,1 +1,2 @@
-# SSL_A-a-a_Daniel
+# Repositorio para la cursada de Sintaxis y Semántica de Lenguajes
+Curso: K2052
